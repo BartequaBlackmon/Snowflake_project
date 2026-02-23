@@ -24,15 +24,6 @@ Dynamic tables are new declarative way of defining data pipeline in Snowflake. I
 3. Transformation with SQL
 4. Analytics dashboard
 
-## Installation
-
-Clone the repository
-
-git clone https://github.com/yourusername/project-name.git
-
-Install dependencies
-
-pip install -r requirements.txt
 
 ## Author
 
