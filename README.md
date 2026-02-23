@@ -12,7 +12,7 @@ Dynamic tables are new declarative way of defining data pipeline in Snowflake. I
 ## Tech Stack
 
 - Snowflake
-- Python
+- PostgreSQL
 - SQL
 - GitHub
 
